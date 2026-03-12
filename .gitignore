@@ -1,0 +1,7 @@
+.pio
+.vscode/*
+*.workspace
+*.code-workspace
+*.log
+*.bin
+*.elf
